@@ -8,7 +8,7 @@ function Header(props) {
     return (
         <header>
             <img src={logo} alt=""/>
-             Test for github
+             Test for githubsdfsdf
             <Nav forNav={props.forHeader}/>
         </header>
     )
