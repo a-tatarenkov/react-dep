@@ -1,0 +1,19 @@
+header {
+    width: 100%;
+    background-color: navajowhite;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.paragraph {
+    color: red;
+}
+
+img {
+    width: 150px;
+}
+
+
+
